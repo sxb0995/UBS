@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Register" />
-        <activity android:name=".ClubPage"></activity>
+        <activity android:name=".ClubPage" />
+        <activity android:name=".JoinPage"></activity>
     </application>
 
 </manifest>
